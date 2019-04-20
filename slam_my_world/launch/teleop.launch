@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<launch>
+	<!--teleop node from source-->
+	<node name="teleop" pkg="slam_my_world" type="teleop" output="screen"/>
+
+</launch>
